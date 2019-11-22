@@ -1,0 +1,22 @@
+{
+  "name": "2019-1_restserver",
+  "version": "1.0.0",
+  "description": "REST Server con NodeJS y Express 2019-1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CBTis051/2019-1_RestServer.git"
+  },
+  "author": "Ángel Alejandro Haya Ramírez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CBTis051/2019-1_RestServer/issues"
+  },
+  "homepage": "https://github.com/CBTis051/2019-1_RestServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
